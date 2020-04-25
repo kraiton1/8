@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 
 
@@ -66,5 +67,44 @@
   color: #abdbf2;
 }
 #form2-5 .mbr-section-title I {
+  font-size: 36px;
+}
+
+
+
+
+#header4-a H1 {
+  color: #06f906;
+}
+#header4-a P {
+  color: #000000;
+}
+#header4-a B {
+  font-size: 23px;
+}
+#header4-a .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box2-c .btn {
+  font-family: 'Bitter', serif;
+}
+#msg-box2-c P {
+  color: #0275d8;
+  text-align: left;
+}
+#msg-box2-c B {
+  font-size: 30px;
+  font-family: 'Roboto Slab', serif;
+}
+#form2-d .btn {
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+#form2-d .mbr-section-title {
+  text-align: right;
+  font-size: 25px;
+  color: #abdbf2;
+}
+#form2-d .mbr-section-title I {
   font-size: 36px;
 }
